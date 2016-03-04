@@ -1,0 +1,11 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2902767
+  lightness: 0.3494624
+  brandStrength: 1
+  brandColors:
+    - '#F0C415'
+    - '#000000'
+  rhythmicContrast: 0.8475116
+typography_spectrum: 0.6845878
+name: NVFLSH
