@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.2902767
-  brandStrength: 0.9928315
-  lightness: 0.3494624
+  saturation: 0.3351254
+  brandStrength: 1
+  lightness: 0.7150537
   brandColors:
     - '#FFFFFF'
     - '#125688'
     - '#26272A'
     - '#A5A6AA'
     - '#F0B365'
-  rhythmicContrast: 0.8475116
+  rhythmicContrast: 1
 typography_spectrum: 0.6845878
 layout_spectrum: 1
 name: NVFLSH
