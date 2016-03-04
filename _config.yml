@@ -4,13 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6845878
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3351254
   brandStrength: 1
@@ -21,6 +20,7 @@ color:
     - '#26272A'
     - '#A5A6AA'
     - '#F0B365'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
+typography_spectrum: 0.9157706
 layout_spectrum: 0.7096774
 name: NVFLSH
