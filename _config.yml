@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.9157706
 color:
   saturation: 0.6541219
   brandStrength: 1
@@ -22,5 +21,6 @@ color:
     - '#A5A6AA'
     - '#F0B365'
   rhythmicContrast: 0
-layout_spectrum: 0.3189964
+typography_spectrum: 0.9157706
+layout_spectrum: 0.1379928
 name: NVFLSH
