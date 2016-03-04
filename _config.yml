@@ -13,7 +13,7 @@ collections:
 color:
   saturation: 0.6541219
   brandStrength: 1
-  lightness: 0.6075269
+  lightness: 0.609319
   brandColors:
     - '#FFFFFF'
     - '#125688'
@@ -22,5 +22,5 @@ color:
     - '#F0B365'
   rhythmicContrast: 0
 typography_spectrum: 0.9157706
-layout_spectrum: 0.1379928
+layout_spectrum: 0
 name: NVFLSH
