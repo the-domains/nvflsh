@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-04T22:38:15.435Z'
+datePublished: '2016-03-05T02:53:52.458Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: 'Go to our store to check out our new lapel pins!'
-dateModified: '2016-03-04T22:37:36.598Z'
+dateModified: '2016-03-05T02:53:41.864Z'
 sourcePath: _posts/2016-03-04-go-to-our-store-to-check-out-our-new-lapel-pins.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
