@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-05T02:39:46.813Z'
+datePublished: '2016-03-05T02:53:52.378Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Articles about us
-dateModified: '2016-03-05T02:39:09.197Z'
+dateModified: '2016-03-05T02:53:41.894Z'
 sourcePath: _posts/2016-03-05-articles-about-us.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
