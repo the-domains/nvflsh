@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-04T22:27:40.498Z'
+datePublished: '2016-03-05T02:53:52.455Z'
 publisher:
   name: ''
   domain: ''
 title: 'The talented Greg Steele of Harrington Comics created this #theshining poster for #altdaily and #narocinema'
-dateModified: '2016-03-04T22:26:24.009Z'
+dateModified: '2016-03-05T02:53:41.946Z'
 starred: false
 sourcePath: _posts/2016-03-04-the-talented-greg-steele-of-harrington-comics-created-this.md
 published: true
