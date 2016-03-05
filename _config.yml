@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9157706
 color:
   saturation: 1
   brandStrength: 0.3476703
@@ -22,5 +21,6 @@ color:
     - '#A5A6AA'
     - '#F0B365'
   rhythmicContrast: 0.6792115
-layout_spectrum: 0.453405
+typography_spectrum: 0.9157706
+layout_spectrum: 0.7222222
 name: NVFLSH
