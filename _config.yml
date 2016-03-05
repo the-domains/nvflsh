@@ -1,14 +1,3 @@
-color:
-  saturation: 1
-  brandStrength: 0.3476703
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#125688'
-    - '#26272A'
-    - '#A5A6AA'
-    - '#F0B365'
-  lightness: 1
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7921147
 typography_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 0.3476703
+  lightness: 0.4964158
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#26272A'
+    - '#A5A6AA'
+    - '#F0B365'
+  rhythmicContrast: 1
+layout_spectrum: 0.7921147
 name: NVFLSH
